@@ -15,7 +15,7 @@ O Recommelody não apenas leva em conta os gostos musicais atuais dos usuários,
 # Equipe do Recommelody:
 
 - Leonardo Moraes
-- Lucca Pagin
 - Luanne Zati
-- Nicole Lisboa
+- Lucca Pagin
 - Matheus Betti
+- Nicole Lisboa
