@@ -12,3 +12,9 @@ Uma das principais inovações do Recommelody é sua abordagem inclusiva para ar
 **Personalização Profunda:**
 O Recommelody não apenas leva em conta os gostos musicais atuais dos usuários, mas também considera a evolução de suas preferências ao longo do tempo. Isso cria uma experiência musical contínua e adaptável, sempre refletindo as mudanças nos gostos e estados de espírito do usuário.
 
+##Equipe do Recommelody:
+- Leonardo Moraes
+- Lucca Pagin
+- Luanne Zati
+- Nicole Lisboa
+- Matheus Betti
